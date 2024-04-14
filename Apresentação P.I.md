@@ -1,12 +1,13 @@
 # Equipe P.I
 
 Equipe do projeto integrador da Faculdade Nova Roma.
+
 Nossa Arquitetura para projeto integrador: Redux (A Presentar)
 
 ## Integrantes do Grupo:
 
--Beatriz dos Santos Araújo
--Cawan de Melo Santos
+- Beatriz dos Santos Araújo
+- Cawan de Melo Santos
 
 # MenteGuia - Plataforma de Mentorias para Universitários
 
