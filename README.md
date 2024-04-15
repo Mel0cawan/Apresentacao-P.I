@@ -8,6 +8,9 @@ Nossa Arquitetura para projeto integrador: Redux (A Presentar)
 
 - Beatriz dos Santos Araújo
 - Cawan de Melo Santos
+- Laila Pereira
+- Raissa Pereira
+- Dyeggo Bezerra
 
 ![Imagem do WhatsApp de 2024-04-14 à(s) 20 48 14_daa72664](https://github.com/Mel0cawan/Apresentacao-P.I/assets/162814907/804a42fb-6c61-4f9e-8e91-efb490222700)
 
@@ -53,7 +56,7 @@ Para começar a usar o MenteGuia, siga estes passos:
 ## Contribuindo
 
 
-Se você é um desenvolvedor e gostaria de contribuir para o projeto TechMentor, por favor, siga estes passos:
+Se você é um desenvolvedor e gostaria de contribuir para o projeto MenteGuia, por favor, siga estes passos:
 
 
 1. Faça um fork do repositório.
