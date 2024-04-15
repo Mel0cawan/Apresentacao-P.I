@@ -9,6 +9,8 @@ Nossa Arquitetura para projeto integrador: Redux (A Presentar)
 - Beatriz dos Santos Araújo
 - Cawan de Melo Santos
 
+![Imagem do WhatsApp de 2024-04-14 à(s) 20 48 14_daa72664](https://github.com/Mel0cawan/Apresentacao-P.I/assets/162814907/804a42fb-6c61-4f9e-8e91-efb490222700)
+
 # MenteGuia - Plataforma de Mentorias para Universitários
 
 
