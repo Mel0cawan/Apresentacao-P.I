@@ -1,4 +1,4 @@
-# Equipe P.I
+# Equipe projeto integrador
 
 Equipe do projeto integrador da Faculdade Nova Roma.
 
