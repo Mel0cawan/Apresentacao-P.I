@@ -65,11 +65,12 @@ Se você é um desenvolvedor e gostaria de contribuir para o projeto MenteGuia, 
 4. Faça push para a branch (`git push origin feature/AmazingFeature`).
 5. Abra um Pull Request.
 
+## Protótipo no Figma 
 
+https://www.figma.com/file/9MrTqRHZXqJBEdlDqck1B7/APP-MENTEGUIA?type=design&node-id=0-1&mode=design&t=KZBuZ2iR6e7jF6wR-0
 
 
 ## Contato
-
 
 Se você tiver alguma dúvida ou sugestão sobre o MenteGuia, fique à vontade para entrar em contato conosco.
 
